@@ -13,3 +13,5 @@ you can write index right now or just look through the list and after that you w
 ![image](https://user-images.githubusercontent.com/91532556/154765093-a6c0d4ae-e3e6-4fca-9b26-9ecb2694d055.png)
 If it is a dictionary you will have to type the key
 So just follow the instruvtions and every thing will be ok.
+# also don't forget to add hidden.py which looks like that:
+![image](https://user-images.githubusercontent.com/91532556/154765329-8ada65c0-1ad9-4ba6-ae64-c7c5de30efdd.png)
