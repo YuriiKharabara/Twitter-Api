@@ -1,5 +1,5 @@
-# Twitter__Api
-It is a project which let you to discover some json file
+# Twitter-Api
+It is a project which let you to discover JSON file from Twitter
 # Description
 The only thing you have to do is to run this program in your folder, and follow instruction
 # Example
